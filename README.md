@@ -39,10 +39,19 @@ The MySQL home page is opened
 6. Import the my-shop.sql database
 
 7. Open a 2nd navigation page and type : 
-`http://localhost/Game_Shop`
-You arrive on the home page of the project
+`http://localhost/Game_Shop/src`
+You arrive on the home page of the project.   
 
+# Access to the various pages  
+1. Homeview : 
+`http://localhost/Game_Shop/src`  
+2. Login : 
+`http://localhost/Game_Shop/signin`  
+3. Register : 
+`http://localhost/Game_Shop/signup`  
+4. Dashboard Admin : 
+`http://localhost/Game_Shop/admin`
 
-## License
+# License
 This application is open-source under the [MIT license](https://opensource.org/licenses/MIT). 
 
